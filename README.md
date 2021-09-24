@@ -30,6 +30,6 @@
 
 <details>
   <summary>v0.0.1: 더미데이터를 활용하여 할일 목록에 할일들을 추가할 수 있다. 완료를 선택하면 체크가 된다. 기본적인 스타일링까지는 적용해뒀다.</summary>
-  ![v0.0.1](https://user-images.githubusercontent.com/77430059/134646417-6ea1fbf4-3132-48f8-96fb-9530db71035a.gif)
+  [클릭하여 확인](https://user-images.githubusercontent.com/77430059/134646417-6ea1fbf4-3132-48f8-96fb-9530db71035a.gif)
 
 </details>
