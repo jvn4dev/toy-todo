@@ -2,8 +2,10 @@
   margin: 20rem 0.2rem;
   display: flex;
   align-items: center;
+  position: fixed;
+  bottom: 17rem;
   background-color: rgba(0, 0, 0, 0.2);
-  width: 88%;
+  width: 35%;
   height: 1rem;
   padding: 1rem;
   border-radius: 1rem;
@@ -12,6 +14,7 @@
 .button {
   border: none;
   border-radius: 50%;
+  float: left;
   width: 1.5rem;
   height: 1.5rem;
   font-size: 1.2rem;
@@ -19,12 +22,20 @@
   background-color: #15a8f0;
   margin-right: 0.7rem;
   cursor: pointer;
+  box-shadow: 1.5px 1.5px 1.5px grey;
+  transition-duration: 0.1s;
+}
+
+.button:active {
+  margin-left: 1px;
+  margin-top: 1px;
+  box-shadow: none;
 }
 
 .input {
   border: none;
-  position: relative;
-  /* top: 0.1rem; */
+  position: fixed;
+  left: 20rem;
   outline: none;
   color: black;
   font-size: 1rem;
